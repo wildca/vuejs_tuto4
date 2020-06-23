@@ -1,0 +1,4 @@
+command: npm run serve
+
+
+url tuto: https://www.educative.io/edpresso/getting-started-with-vue-js?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=edpresso-dynamic&gclid=CjwKCAjw_qb3BRAVEiwAvwq6VmCPQ4NzDVHjZo03idPxtvjAa38j_giPkS4Osuc0i-dxsA3uIBoxrhoCMM4QAvD_BwE
